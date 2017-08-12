@@ -1,9 +1,10 @@
-# Bienvenido al curso de Redes Neuronales de la Licenciatura en Ciencias de la computación de la Universidad de Sonora
 
 ![Redes neuronales](http://cosmonio.com/Research/Deep-Learning/files/small_1420.png)
 
+**Bienvenido al curso de Redes Neuronales de la Licenciatura en Ciencias de la computación de la Universidad de Sonora**
 
-## Información general del curso
+
+# Información general del curso
 
 *Profesor:* [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
 
@@ -17,7 +18,7 @@
 
 
 
-## Objetivo del curso
+# Objetivo del curso
 
 Los **objetivos** de este curso son:
 
@@ -62,7 +63,7 @@ lo largo del semestre 2017b son las siguientes:
    2. Un modelo generativo para modificación automática de imágenes.
    3. Una red profunda tipo *Densenet* para su uso con bases de datos reducidas.
 
-## Temario del curso
+# Temario del curso
 
 1. Redes neuronales
 
@@ -76,7 +77,7 @@ lo largo del semestre 2017b son las siguientes:
 
 6. Tema selecto (a decidir en conjunto con los estudiantes) 
 
-## Método de evaluación
+# Método de evaluación
 
 Se contemplan 3 tipos diferentes de evaluación:
 
