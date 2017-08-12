@@ -1,9 +1,6 @@
-# Temario e información general del curso de Redes Neuronales
+# Bienvenido al curso de Redes Neuronales de la Licenciatura en Ciencias de la computación de la Universidad de Sonora
 
 ![Redes neuronales](http://cosmonio.com/Research/Deep-Learning/files/small_1420.png)
-
-**Bienvenido al curso de Redes Neuronales de la Licenciatura en
-Ciencias de la computación de la Universidad de Sonora**
 
 
 ## Información general del curso
