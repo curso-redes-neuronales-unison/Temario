@@ -6,9 +6,13 @@
 ## Información general del curso
 
 *Profesor:* [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
+
 *Horario*: lunes a viernes de 12:00 a 13:00 horas
+
 *Lugar:* Aula 102, edificio 3K-4
+
 *Fecha de inicio:* 14 de agosto de 2017
+
 *Fecha de término:* 8 de diciembre de 2017
 
 
