@@ -6,16 +6,17 @@
 
 # Información general del curso
 
-*Profesor:* [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
+- *Profesor:* [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
 
-*Horario*: lunes a viernes de 12:00 a 13:00 horas
+- *Horario*: lunes a viernes de 12:00 a 13:00 horas
 
-*Lugar:* Aula 102, edificio 3K-4
+- *Lugar:* Aula 102, edificio 3K-4
 
-*Fecha de inicio:* 14 de agosto de 2017
+- *Fecha de inicio:* 14 de agosto de 2017
 
-*Fecha de término:* 8 de diciembre de 2017
+- *Fecha de término:* 8 de diciembre de 2017
 
+- [Material para el curso (sin incluir los proyectos)](https://curso-redes-neuronales-unison.github.io/Material/ "Material para el curso")
 
 
 # Objetivo del curso
