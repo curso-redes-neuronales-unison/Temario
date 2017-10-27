@@ -107,3 +107,9 @@ La evaluación tendrá el siguiente peso:
 - Evaluación de competencias: 40% de la calificación (promedio de
   calificación de los 3 proyectos)
 
+# Proyecto 1: Reconocimiento con RCNN
+
+- [Erick](https://github.com/ErickLF/Pokedex-R-CNN)
+- [Alexis](https://alexis96.github.io/proyecto-CNN/)
+- [Nan](https://nanmon.github.io/redes-neuronales/)
+
