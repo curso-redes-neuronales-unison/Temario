@@ -112,4 +112,4 @@ La evaluación tendrá el siguiente peso:
 - [Erick](https://github.com/ErickLF/Pokedex-R-CNN)
 - [Alexis](https://alexis96.github.io/proyecto-CNN/)
 - [Nan](https://nanmon.github.io/redes-neuronales/)
-
+- [Abraham](https://github.com/abmorenoc/Deteccion-de-objetos-en-imagenes)
