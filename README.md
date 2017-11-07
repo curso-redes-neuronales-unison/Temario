@@ -109,7 +109,7 @@ La evaluación tendrá el siguiente peso:
 
 # Proyecto 1: Reconocimiento con RCNN
 
-- [Erick](https://github.com/ErickLF/Pokedex-R-CNN)
-- [Alexis](https://alexis96.github.io/proyecto-CNN/)
-- [Nan](https://nanmon.github.io/redes-neuronales/)
-- [Abraham](https://abmorenoc.github.io/Deteccion-de-objetos-en-imagenes/)
+- [**Pokedex** Reconocimiento de *pokemones*](https://ErickLF.github.io/Pokedex-R-CNN), por [**Erick Fernando López Fimbres**].(https://ericklf.github.io)
+- [Reconocimiento de viboras](https://alexis96.github.io/proyecto-CNN/), por **Fernando Alexis Martínez Valenzuela**.
+- [Reconocimiento de pokemones](https://nanmon.github.io/redes-neuronales/) por **Luís Roberto Montaño Valdez**.
+- [Reconocimento de botellas de cheve](https://abmorenoc.github.io/Deteccion-de-objetos-en-imagenes/) por **Jesús Abraham Moreno Ceballos**.
