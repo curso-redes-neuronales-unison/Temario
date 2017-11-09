@@ -107,3 +107,32 @@ La evaluación tendrá el siguiente peso:
 - Evaluación de competencias: 40% de la calificación (promedio de
   calificación de los 3 proyectos)
 
+# Proyecto 1: Reconocimiento y localización de objetos en imágenes con RCNN
+
+En este proyecto se desarrolla una aplicación de reconocimiento y localización de objetos en imágenes utilizando una variante de las redes convolucionales llamada *Regional Convolutional Neural Netkorks* (RCNN). La expicación de que es una RCNN, como entrenarla, como utilizar un modelo preentrenado y como realizar todo esto en la nube a través de los servicios de *Google Cloud* se encuentran bien expicados en cada uno de los proyectos realizados. Para muestra de lo que son capaces de realizar los estudiantes de la LCC, se listan los proyectos realizados.
+
+- [**Pokedex** Reconocimiento de *pokemones*](https://ErickLF.github.io/Pokedex-R-CNN), por [**Erick Fernando López Fimbres**](https://ericklf.github.io).
+- [Reconocimiento de víboras](https://alexis96.github.io/proyecto-CNN/), por **Fernando Alexis Martínez Valenzuela**.
+- [Reconocimiento de *pokemones*](https://nanmon.github.io/redes-neuronales/) por **Luís Roberto Montaño Valdez**.
+- [Reconocimento de botellas de cerveza](https://abmorenoc.github.io/Deteccion-de-objetos-en-imagenes/) por **Jesús Abraham Moreno Ceballos**.
+- [Reconocimiento de *pokemones*](https://nanmon.github.io/redes-neuronales/) por **Luís Roberto Montaño Valdez**.
+
+# Proyecto 2: Generación de texto en español (caracter por caracter) utilizando Redes Neuronales Recurrentes (RNN)
+
+En este proyecto, los estudiantes demuestran su habilidad y conocimiento para desarrollar una RN que genere texto en español. En principio el proyecto consta de dos tareas:
+
+1. Hacer un generador de nombre falsos de municipios de México, aprendiendo de la [lista de municipios de la República Mexicana](municipios.txt). Para esto, poner en una libreta de *Jupyter* bien comentado y parametrizado correctamente el método de RNN simple que se presenta en [este gist](https://gist.github.com/karpathy/d4dee566867f8291f086), o si quieres algo más sofisticado, está [este otro gist](https://gist.github.com/karpathy/587454dc0146a6ae21fc) que hace una implementación sencilla de las LSTM.
+
+2. Hacer un generador de textos, los cuales pueden ser (aunque no se restringen) a:
+   1. Generador de discursos políticos (los texots se pueden obtener del senado de la república o la camara de diputados).
+   2. Generador de parrafos de teatro de la época de oro (a partir de las obras en el [proyecto Gutemberg](https://www.gutenberg.org/browse/languages/es)).
+   3. Generador de tareas autom´icas (a partir de las infames tareas que se encuentran en [monografias.com](http://www.monografias.com).
+   
+Los proyectos realizados son los siguientes:
+
+- *En desarrollo*, por [**Erick Fernando López Fimbres**](https://ericklf.github.io).
+- *En desarrollo*, por **Fernando Alexis Martínez Valenzuela**.
+- *En desarrollo* por **Luís Roberto Montaño Valdez**.
+- *En desarrollo* por **Jesús Abraham Moreno Ceballos**.
+- *En desarrollo* por **Luís Roberto Montaño Valdez**.
+
