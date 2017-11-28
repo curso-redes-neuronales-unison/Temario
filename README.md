@@ -130,8 +130,8 @@ En este proyecto, los estudiantes demuestran su habilidad y conocimiento para de
    
 Los proyectos realizados son los siguientes:
 
-- *En desarrollo*, por [**Erick Fernando López Fimbres**](https://ericklf.github.io).
-- *En desarrollo*, por **Fernando Alexis Martínez Valenzuela**.
+- [**G-Texts**: Generación de textos en español](https://ericklf.github.io/Generador-Textos-RNN/), por [**Erick Fernando López Fimbres**](https://ericklf.github.io).
+- [Generación de textos políticos](https://alexis96.github.io/proyecto-RNN/), por **Fernando Alexis Martínez Valenzuela**.
 - *En desarrollo* por **Luís Roberto Montaño Valdez**.
 - *En desarrollo* por **Jesús Abraham Moreno Ceballos**.
 - *En desarrollo* por **Luís Roberto Montaño Valdez**.
