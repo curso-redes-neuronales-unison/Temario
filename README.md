@@ -12,9 +12,9 @@
 
 - *Lugar:* Aula 102, edificio 3K-4
 
-- *Fecha de inicio:* 14 de agosto de 2017
+- *Fecha de inicio:* 15 de enero de 2018
 
-- *Fecha de término:* 8 de diciembre de 2017
+- *Fecha de término:* 11 de mayo de 2018
 
 - [Material para el curso (sin incluir los proyectos)](https://curso-redes-neuronales-unison.github.io/Material/ "Material para el curso")
 
@@ -37,18 +37,17 @@ Los **objetivos** de este curso son:
    profundo a otros problemas.
 
 Las **competencias** que espero ayudar a desarrollar en los estudiantes a
-lo largo del semestre 2017b son las siguientes:
+lo largo del semestre 2018a son las siguientes:
 
-1. Saber programar una red neuronal sencilla hacia adelante con el
-   algoritmo de *b-prop* y de *r-prop* en Python
+1. Saber programar una red neuronal sencilla hacia adelante con los
+   algoritmo de *b-prop* y de *r-prop* en Python, con la librería *numpy*.
 
-2. Utilizar *Tensorflow* y/o *Theano* para desarrollar una red
-   convolucional para clasificación de imágenes.
+2. Utilizar *Tensorflow* y/o *pyTorch* para desarrollar una red
+   convolucional para clasificación y localización de objetos en imágenes.
 
-3. Utilizar *Tensorflow* o *Theano* para desarrollar una red neuronal
-   recurrente y su aplicación a un problema de procesamiento de
-   lenjuage natural (como la generación de *word2vec*) o un problema
-   de predicción en series de tiempo.
+3. Utilizar *Tensorflow* o *pyTorch* para desarrollar una red neuronal
+   recurrente y su aplicación a un problema de naturaleza secuencial, de preferencia en relación con el procesamiento de
+   lenjuage natural, tales como la generación de la codificación *word2vec*, o la generación automática de texto.
 
 4. Saber ajustar, analizar y modificar los parámetros de una red
    neuronal profunda, utilizando diferentes técnicas. Muy en
@@ -66,17 +65,21 @@ lo largo del semestre 2017b son las siguientes:
 
 # Temario del curso
 
-1. Redes neuronales
+1. Introdución a las redes neuronales
 
-2. Arquitecturas profundas: ideas generales
+2. Conocimientos previos: Un poco de álgebra lineal e introducción a la teoría del aprendizaje
 
-3. Redes convolucionales
+3. Redes sencillas hacia adelante: arquitectura y aprendizaje
 
-4. Herramientas y métodos de análisis y ajuste de hiperparámetros
+4. Arquitecturas profundas: ideas generales
 
-5. Redes recurrentes
+5. Redes convolucionales
 
-6. Tema selecto (a decidir en conjunto con los estudiantes) 
+6. Redes recurrentes
+
+7. Herramientas y métodos de análisis y ajuste de hiperparámetros
+
+8. Tema selecto (a decidir en conjunto con los estudiantes) 
 
 # Método de evaluación
 
@@ -87,10 +90,10 @@ Se contemplan 3 tipos diferentes de evaluación:
    *Jupyter* que se deberá de resolver a lo largo del curso. 
 
 2. *Evaluación teórica:* Esta se realiza a partir de dos exámenes
-   teóricos, uno al final del tema 1, y otro al final del semestre.
+   teóricos, uno al final del tema 4, y otro al final del semestre.
    
 3. *Evaluación de competencias:* Esta se realizará a través de 3
-   proyectos pequeños que deberán desarrollar los estudiantes en forma
+   proyectos que deberán desarrollar los estudiantes en forma
    individual, los cuales son:
    1. Una red convolucional.
    2. Una red recurrente.
@@ -107,6 +110,7 @@ La evaluación tendrá el siguiente peso:
 - Evaluación de competencias: 40% de la calificación (promedio de
   calificación de los 3 proyectos)
 
+<!---
 # Proyecto 1: Reconocimiento y localización de objetos en imágenes con RCNN
 
 En este proyecto se desarrolla una aplicación de reconocimiento y localización de objetos en imágenes utilizando una variante de las redes convolucionales llamada *Regional Convolutional Neural Netkorks* (RCNN). La expicación de que es una RCNN, como entrenarla, como utilizar un modelo preentrenado y como realizar todo esto en la nube a través de los servicios de *Google Cloud* se encuentran bien expicados en cada uno de los proyectos realizados. Para muestra de lo que son capaces de realizar los estudiantes de la LCC, se listan los proyectos realizados.
@@ -136,3 +140,4 @@ Los proyectos realizados son los siguientes:
 - *En desarrollo* por **Jesús Abraham Moreno Ceballos**.
 - *En desarrollo* por **Luís Roberto Montaño Valdez**.
 
+-->
